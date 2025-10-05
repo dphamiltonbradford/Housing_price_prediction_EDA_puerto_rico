@@ -1,0 +1,1 @@
+In this project I perform Exploratory Data Analysis on Puerto Rico real estate to identify key factors influencing housing prices. A linear regression model is used to predict price based on the most significant variable. The project tests multiple features, including square footage, to determine the strongest predictor.
